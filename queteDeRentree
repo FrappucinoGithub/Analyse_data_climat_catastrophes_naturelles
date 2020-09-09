@@ -1,0 +1,4 @@
+Nombre = int(input())
+
+for loop in range(Nombre)
+  print("Bienvenue à la wild")
