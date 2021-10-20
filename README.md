@@ -1,6 +1,6 @@
-# WildCodeSchool-climat
+# Data analyse -climat
 
-Exercice d'analyse sur les changements climatiques dans le cadre d'un projet de groupe lors de ma formation de data analyst à la Wild Code School de Nantes en 2020/2021.
+Exercice d'analyse de données sur les catastrophes naturelles engendrées par le changement climatique , étude réalisée dans le cadre d'un projet de groupe lors de ma formation de data analyst à la Wild Code School de Nantes en 2020/2021.
 
 **Sources des données :**
 EM-DAT
