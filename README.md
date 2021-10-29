@@ -1,6 +1,6 @@
-# Data analyse -climat
+# Data analyse "climat et catastrophes naturelles"
 
-Exercice d'analyse de données sur les catastrophes naturelles engendrées par le changement climatique , étude réalisée dans le cadre d'un projet de groupe lors de ma formation de data analyst à la Wild Code School de Nantes en 2020/2021.
+Analyse de données sur les catastrophes naturelles engendrées par le changement climatique , étude réalisée dans le cadre d'un projet de groupe lors de ma formation de data analyst à la Wild Code School de Nantes en 2020/2021.
 
 **Sources des données :**
 EM-DAT
