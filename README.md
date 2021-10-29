@@ -10,7 +10,7 @@ https://www.emdat.be/
 - ne décompte que les catastrophes naturelles déclarées comme telle par un pays 
 - ne prend que les décomptes 100 personnes touchées minimun 10 morts minimum demande d'aide internationale 
 
-**Ce que contient ce notebook (réalisé dans Google Collab, en python 3) :**
+**Ce que contient ce notebook (réalisé dans Google Colab, en python 3) :**
 - Présentation des premières explorations de la base en dataviz
 - Filtre sur les désastres naturels et climatiques
 - Filtre sur les tempêtes
